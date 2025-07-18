@@ -15,8 +15,8 @@
 - Learning backend development to complete the full stack journey
 
 ## 📫 Let’s Connect:
-- 📎 [LinkedIn](https://www.linkedin.com/in/prajwal-akre-85112221b/))
-- 📁 [Resume](https://drive.google.com/file/d/17XKdtO79Cz6yX7wq44sz-YvfIKZGovc_/view?usp=sharing))
+- 📎 [LinkedIn](https://www.linkedin.com/in/prajwal-akre-85112221b/)
+- 📁 [Resume](https://drive.google.com/file/d/17XKdtO79Cz6yX7wq44sz-YvfIKZGovc_/view?usp=sharing)
 
 ---
 
