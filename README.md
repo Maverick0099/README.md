@@ -15,9 +15,8 @@
 - Learning backend development to complete the full stack journey
 
 ## 📫 Let’s Connect:
-- 📎 [LinkedIn](https://linkedin.com/in/your-username)
-- 💼 [Portfolio](https://your-portfolio-link.com)
-- 📁 [Resume](https://your-resume-link.com)
+- 📎 [LinkedIn]([https://linkedin.com/in/your-username](https://www.linkedin.com/in/prajwal-akre-85112221b/))
+- 📁 [Resume]([https://your-resume-link.com](https://drive.google.com/file/d/17XKdtO79Cz6yX7wq44sz-YvfIKZGovc_/view?usp=sharing))
 
 ---
 
