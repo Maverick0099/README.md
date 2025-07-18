@@ -1,25 +1,22 @@
-# 👋 Hi, I'm Prajwal Akre
+### Hi there 👋 I'm Prajwal Akre
 
-🎓 Computer Science Graduate | GATE 2025 Qualified  
-💻 Aspiring Full Stack Developer | Passionate about solving real-world problems using technology
+🎓 I'm a Computer Science graduate with a strong foundation in core CS subjects and a recent qualifier of the **GATE 2025** examination.
 
-## 🚀 Technologies I’m Learning:
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend (coming soon):** Node.js, Express.js
-- **Version Control:** Git & GitHub  
-- **Tools:** VS Code, Chrome DevTools
+💻 I'm passionate about building modern web applications. My current focus is on **Full Stack Development** using:
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Continuously learning Node.js, Express, and databases
 
-## 🌱 Currently Working On:
-- Building small to medium scale web applications
-- Strengthening my frontend development skills
-- Learning backend development to complete the full stack journey
+🛡️ I'm also exploring the **basics of Cybersecurity**, including:
+- Networking fundamentals (OSI model, TCP/IP, DNS)
+- Linux commands and system navigation
+- Tools like `ping`, `netstat`, `traceroute`, `nslookup`
 
-## 📫 Let’s Connect:
-- 📎 [LinkedIn](https://www.linkedin.com/in/prajwal-akre-85112221b/)
-- 📁 [Resume](https://drive.google.com/file/d/17XKdtO79Cz6yX7wq44sz-YvfIKZGovc_/view?usp=sharing)
+🚀 I'm a quick learner with a strong work ethic, always open to collaboration, learning, and new opportunities.
+
+📫 How to reach me:  
+[LinkedIn](https://www.linkedin.com/in/prajwal-akre-85112221b/) • [Email](mailto:prajwal.akre282@gmail.com)
 
 ---
 
-**“Code is not just about syntax — it’s about solving problems and making ideas real.”**
+> “Code. Learn. Secure. Repeat.” 🔐
 
-Thanks for visiting!
